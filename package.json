@@ -1,0 +1,11 @@
+{
+  "name": "kash-crown-nim-mcp",
+  "version": "1.0.0",
+  "description": "Nim video generation MCP server for Claude",
+  "main": "index.js",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.24.0"
+  },
+  "author": "Kash Crown",
+  "license": "MIT"
+}
